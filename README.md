@@ -5,3 +5,4 @@ IMS-POS is a C# Windows Forms application for managing store sales, inventory, s
 "# ConstructionEstimate" 
 >>>>>>> 3632853 (first commit)
 "# ConstructionEstimate" 
+"# ConstructionEstimate" 
